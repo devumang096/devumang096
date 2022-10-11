@@ -9,6 +9,8 @@
 - ⚡ Fun fact: I listen music 6 hours a day
 - 🧑🏻‍🤝‍🧑🏾 Core member at [@dotquestionmark](https://www.linkedin.com/company/dot-questionmark).
 
+- 📫 How to reach me **devumang096@gmail.com**
+
 <br>
 <a href="https://github.com/devumang096">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devumang096&" />
