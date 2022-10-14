@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Open source projects
 - 🤔 I’m looking for help with ReactJs Documentations
-- 💬 Ask me about Programming and Tech related stuff
+- 💬 Ask me about Programming and Technologies.
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I listen music 6 hours a day
 - 🧑🏻‍🤝‍🧑🏾 Core member at [@dotquestionmark](https://www.linkedin.com/company/dot-questionmark).
