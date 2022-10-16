@@ -15,7 +15,7 @@
 
 <br>
 <a href="https://github.com/devumang096">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devumang096&" />
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=devumang096&theme=dark&hide_border=true" />
 </a>
 <br>
 
