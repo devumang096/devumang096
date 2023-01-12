@@ -18,5 +18,3 @@
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=devumang096&theme=dark&hide_border=true" />
 </a>
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devumang096&show_icons=true&locale=en" alt="devumang096" /></p>
